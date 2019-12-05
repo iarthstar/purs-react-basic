@@ -1,0 +1,24 @@
+{
+  "name": "purs-react-basic",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.1",
+    "purescript-console": "^4.2.0",
+    "purescript-effect": "^2.0.1",
+    "purescript-react-basic": "^13.0.0",
+    "purescript-debug": "^4.0.0",
+    "purescript-react-basic-router": "https://github.com/KSF-Media/purescript-react-basic-router.git",
+    "purescript-nullable": "^4.1.1",
+    "purescript-maybe": "^4.0.1",
+    "purescript-lens": "^4.0.0",
+    "purescript-axios": "^1.1.2"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}

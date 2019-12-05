@@ -1,0 +1,15 @@
+body {
+    background-color: whitesmoke;
+}
+
+.mdl-card {
+    width: 100%;
+}
+
+.mdl-textfield {
+    padding-bottom: 27px;
+}
+
+input[type="file"] {
+    display: none;
+}
